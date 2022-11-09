@@ -63,7 +63,7 @@ pipeline {
             }
         }
         steps {
-            echo "AllOf Wors!!"
+            echo "AllOf Works!!"
         }
       }
       
