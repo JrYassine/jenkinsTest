@@ -11,7 +11,7 @@ node {
 
 
         stage("Publish api") {
-           echo 'Publish api..'
+           echo 'Publish ai..'
             
         }
 }
